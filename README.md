@@ -7,7 +7,7 @@ A single-page application built with React that fulfills the requirements for th
 
 ## 🚀 Live Demo
 
-A live version of this project can be viewed here: **[LINK TO YOUR DEPLOYED SITE]**
+A live version of this project can be viewed here: **[View Live Demo](https://random-quote-machine-ruddy.vercel.app/)**
 
 ---
 
