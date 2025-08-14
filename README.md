@@ -20,6 +20,15 @@ A live version of this project can be viewed here: **[View Live Demo](https://ra
 
 ---
 
+## 🎨 Design Features
+
+* **Custom Typography:** Uses a professional font pairing (Playfair Display & Lato) from Google Fonts for an elegant look.
+* **Modern Iconography:** Integrates a Font Awesome X icon for social sharing.
+* **Polished UI:** The quote box features custom rounded corners and a subtle box-shadow for depth.
+* **Dynamic Color Scheme:** The background gradient and quote box color change smoothly with each new quote, creating a unique experience every time.
+
+---
+
 ## 🛠️ Tech Stack
 
 * **React:** Used for building the component-based user interface and managing application state with `useState` and `useEffect` hooks.
@@ -29,15 +38,6 @@ A live version of this project can be viewed here: **[View Live Demo](https://ra
 * **Sass:** Used for custom styling and organization of CSS (future improvements).
 * **HTML5 & CSS3:** The foundational languages for the structure and final presentation.
 * **Quotable API:** Used for fetching random quote data.
-
----
-
-## 🎨 Future Improvements
-
-* Integrate Google Fonts for improved typography.
-* Replace the text-based "Tweet" link with a modern X SVG icon.
-* Add a subtle box-shadow and rounded corners to the quote box for a polished, card-like appearance.
-* Implement a dynamic color scheme where the background color of the page and quote box changes smoothly with each new quote.
 
 ---
 
