@@ -67,3 +67,9 @@ Make sure you have Node.js and npm installed on your machine.
     ```sh
     npm run dev
     ```
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE.txt).
